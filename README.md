@@ -4,7 +4,7 @@
 
 I am a 2nd-year Computer Science major at [Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en/), University of Warsaw. I am particularly interested in software development, especially backend.
 
-### 🕹️ Gaming Modding (2019-2021)  
+### 🕹️ Game Modding (2019-2021)  
 
 From 2019 to 2021, I worked as part of a team (including one year as Lead Coder) on the *AEIOU 1886* mod for the game *Hearts of Iron&nbsp;4*.
 My role focused on both creating in-game content and coding it. I contributed under the nicknames 'ThisWW1guy'/'ThisWWIguy'.
