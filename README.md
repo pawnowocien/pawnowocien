@@ -2,7 +2,7 @@
 
 ### 🎓 Computer Science Student
 
-I am a 2nd-year Computer Science major at [Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en/), University of Warsaw. I am particularly interested in software development, especially backend.
+I am a 3rd-year Computer Science major at [Faculty of Mathematics, Informatics and Mechanics](https://www.mimuw.edu.pl/en/), University of Warsaw. I am particularly interested in software development, especially backend.
 
 ### 🕹️ Game Modding (2019-2021)  
 
